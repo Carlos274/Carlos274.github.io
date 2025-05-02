@@ -1,4 +1,4 @@
-function armazenarvalor(){
+function armazenarValor(){
 
      //armazena o valor que o usario digitou
      var userInput = document.getElementById("userInput").value;
