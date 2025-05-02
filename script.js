@@ -4,9 +4,9 @@ function armazenarvalor(){
 var userimput = document.gerElementById("userImput").value;
 
 //exibe o valor armazenado
-console.log("o valor da variavel é: " + userImput);
+console.log("o valor da variavel é: " + userInput);
 
 //atualiza o conteudo
-document.getElementById("valorInserido").innerText = " O valor inserido é: " = userImput;
+document.getElementById("valorInserido").innerText = " O valor inserido é: " = userInput;
 
 }
